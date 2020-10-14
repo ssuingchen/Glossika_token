@@ -1,0 +1,13 @@
+.jumbotron{
+    position:relative;
+    top: 35vh;
+}
+
+.sentences{
+    text-align: center;
+}
+
+.btn-secondary{
+    position:relative;
+    top:20px;
+}
